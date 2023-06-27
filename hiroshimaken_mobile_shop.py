@@ -3,187 +3,187 @@ import folium
 m = folium.Map(location=[34.5,132.7],zoom_start=9)
 m
 
-folium.Marker(location=[34.3735528,132.3952746],popup='ソフトバンク アルパーク店　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3735528,132.3952746],popup='ソフトバンク アルパーク店　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4447035,132.4618206],popup='ソフトバンク イオンモール広島祇園店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4447035,132.4618206],popup='ソフトバンク イオンモール広島祇園店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3940516,132.4996475],popup='ソフトバンク イオンモール広島府中店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3940516,132.4996475],popup='ソフトバンク イオンモール広島府中店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2423879,132.2231981],popup='ソフトバンク 大竹晴海店　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2423879,132.2231981],popup='ソフトバンク 大竹晴海店　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3869626,132.4310426],popup='ソフトバンク 観音店　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3869626,132.4310426],popup='ソフトバンク 観音店　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.5465746,133.3567507],popup='ソフトバンク 神辺店　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.5465746,133.3567507],popup='ソフトバンク 神辺店　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.410991,132.7505069],popup='ソフトバンク 西条中央店　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.410991,132.7505069],popup='ソフトバンク 西条中央店　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3493264,132.5185517],popup='ソフトバンク フジグラン安芸店　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3493264,132.5185517],popup='ソフトバンク フジグラン安芸店　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3455460,132.3358205],popup='ソフトバンク ゆめタウン廿日市店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3455460,132.3358205],popup='ソフトバンク ゆめタウン廿日市店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3757973,132.4629615],popup='ソフトバンク ゆめタウン広島店　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3757973,132.4629615],popup='ソフトバンク ゆめタウン広島店　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4725657,132.4527777],popup='ソフトバンク+ワイモバイル 相田店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4725657,132.4527777],popup='ソフトバンク+ワイモバイル 相田店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4703771,133.3944909],popup='ソフトバンク+ワイモバイル あけぼの店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4703771,133.3944909],popup='ソフトバンク+ワイモバイル あけぼの店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3993047,133.0871391],popup='ソフトバンク+ワイモバイル イオン三原店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3993047,133.0871391],popup='ソフトバンク+ワイモバイル イオン三原店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3831243,132.3561015],popup='ソフトバンク+ワイモバイル 五日市城山店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3831243,132.3561015],popup='ソフトバンク+ワイモバイル 五日市城山店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3729286,132.3578995],popup='ソフトバンク+ワイモバイル 五日市中央店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3729286,132.3578995],popup='ソフトバンク+ワイモバイル 五日市中央店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2959478,133.1660406],popup='ソフトバンク+ワイモバイル 因島店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2959478,133.1660406],popup='ソフトバンク+ワイモバイル 因島店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3964286,132.4736805],popup='ソフトバンク+ワイモバイル エールエール広島駅前店　　　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3964286,132.4736805],popup='ソフトバンク+ワイモバイル エールエール広島駅前店　　　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4126103,133.1875767],popup='ソフトバンク+ワイモバイル 尾道店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4126103,133.1875767],popup='ソフトバンク+ワイモバイル 尾道店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3662141,132.5337186],popup='ソフトバンク+ワイモバイル 海田中央店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3662141,132.5337186],popup='ソフトバンク+ワイモバイル 海田中央店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.5212126,132.5069542],popup='ソフトバンク+ワイモバイル 可部バイパス店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.5212126,132.5069542],popup='ソフトバンク+ワイモバイル 可部バイパス店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3242805,132.6666053],popup='ソフトバンク+ワイモバイル 黒瀬店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3242805,132.6666053],popup='ソフトバンク+ワイモバイル 黒瀬店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3877144,132.4183812],popup='ソフトバンク+ワイモバイル 庚午店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3877144,132.4183812],popup='ソフトバンク+ワイモバイル 庚午店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4652942,132.5039043],popup='ソフトバンク+ワイモバイル 高陽中央店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4652942,132.5039043],popup='ソフトバンク+ワイモバイル 高陽中央店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4274561,132.7573699],popup='ソフトバンク+ワイモバイル 西条土与丸店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4274561,132.7573699],popup='ソフトバンク+ワイモバイル 西条土与丸店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.5000026,133.4006827],popup='ソフトバンク+ワイモバイル 蔵王店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.5000026,133.4006827],popup='ソフトバンク+ワイモバイル 蔵王店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4890917,133.3615345],popup='ソフトバンク+ワイモバイル さんすて福山店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4890917,133.3615345],popup='ソフトバンク+ワイモバイル さんすて福山店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3868563,132.3583469],popup='ソフトバンク+ワイモバイル サンリブ五日市店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3868563,132.3583469],popup='ソフトバンク+ワイモバイル サンリブ五日市店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4096785,132.3978264],popup='ソフトバンク+ワイモバイル ジアウトレット広島店　　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4096785,132.3978264],popup='ソフトバンク+ワイモバイル ジアウトレット広島店　　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.5847883,133.0381145],popup='ソフトバンク+ワイモバイル 世羅店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.5847883,133.0381145],popup='ソフトバンク+ワイモバイル 世羅店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4493305,132.787863],popup='ソフトバンク+ワイモバイル 高屋店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4493305,132.787863],popup='ソフトバンク+ワイモバイル 高屋店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3468923,132.9046071],popup='ソフトバンク+ワイモバイル 竹原店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3468923,132.9046071],popup='ソフトバンク+ワイモバイル 竹原店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4674877,132.4227516],popup='ソフトバンク+ワイモバイル 伴東店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4674877,132.4227516],popup='ソフトバンク+ワイモバイル 伴東店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4781953,133.369585],popup='ソフトバンク+ワイモバイル 野上店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4781953,133.369585],popup='ソフトバンク+ワイモバイル 野上店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.446718,132.7065674],popup='ソフトバンク+ワイモバイル 八本松店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.446718,132.7065674],popup='ソフトバンク+ワイモバイル 八本松店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3466267,132.3275149],popup='ソフトバンク+ワイモバイル 廿日市店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3466267,132.3275149],popup='ソフトバンク+ワイモバイル 廿日市店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4292721,133.2346365],popup='ソフトバンク+ワイモバイル 東尾道店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4292721,133.2346365],popup='ソフトバンク+ワイモバイル 東尾道店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2280251,132.6307516],popup='ソフトバンク+ワイモバイル 広駅前店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2280251,132.6307516],popup='ソフトバンク+ワイモバイル 広駅前店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2404687,132.619169],popup='ソフトバンク+ワイモバイル 広国際通り店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2404687,132.619169],popup='ソフトバンク+ワイモバイル 広国際通り店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3953936,132.4552827],popup='ソフトバンク+ワイモバイル 広島紙屋町店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3953936,132.4552827],popup='ソフトバンク+ワイモバイル 広島紙屋町店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3853896,132.4757858],popup='ソフトバンク+ワイモバイル 広島段原ショッピングセンター店　　　　　　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3853896,132.4757858],popup='ソフトバンク+ワイモバイル 広島段原ショッピングセンター店　　　　　　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3923165,132.4608546],popup='ソフトバンク+ワイモバイル 広島本通商店街店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3923165,132.4608546],popup='ソフトバンク+ワイモバイル 広島本通商店街店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4078514,132.7152317],popup='ソフトバンク+ワイモバイル 広大前店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4078514,132.7152317],popup='ソフトバンク+ワイモバイル 広大前店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4079544,132.503487],popup='ソフトバンク+ワイモバイル フォレオ広島東店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4079544,132.503487],popup='ソフトバンク+ワイモバイル フォレオ広島東店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.542143,133.3204925],popup='ソフトバンク+ワイモバイル 福山駅家店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.542143,133.3204925],popup='ソフトバンク+ワイモバイル 福山駅家店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4914281,133.4083998],popup='ソフトバンク+ワイモバイル 福山東郵便局前店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4914281,133.4083998],popup='ソフトバンク+ワイモバイル 福山東郵便局前店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3860921,132.4643314],popup='ソフトバンク+ワイモバイル フジグラン広島店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3860921,132.4643314],popup='ソフトバンク+ワイモバイル フジグラン広島店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4662505,132.4769080],popup='ソフトバンク+ワイモバイル フジグラン緑井店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4662505,132.4769080],popup='ソフトバンク+ワイモバイル フジグラン緑井店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.5697601,133.2370826],popup='ソフトバンク+ワイモバイル 府中天満屋店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.5697601,133.2370826],popup='ソフトバンク+ワイモバイル 府中天満屋店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3934876,132.4579139],popup='ソフトバンク+ワイモバイル 本通駅前店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3934876,132.4579139],popup='ソフトバンク+ワイモバイル 本通駅前店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.5229643,132.5123688],popup='ソフトバンク+ワイモバイル マルナカ可部店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.5229643,132.5123688],popup='ソフトバンク+ワイモバイル マルナカ可部店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4431926,133.2543523],popup='ソフトバンク+ワイモバイル 南松永店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4431926,133.2543523],popup='ソフトバンク+ワイモバイル 南松永店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3944985,133.0611888],popup='ソフトバンク+ワイモバイル 三原宮浦店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3944985,133.0611888],popup='ソフトバンク+ワイモバイル 三原宮浦店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.8041278,132.859511],popup='ソフトバンク+ワイモバイル 三次サングリーン店　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.8041278,132.859511],popup='ソフトバンク+ワイモバイル 三次サングリーン店　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2943947,132.5523949],popup='ソフトバンク+ワイモバイル 焼山店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2943947,132.5523949],popup='ソフトバンク+ワイモバイル 焼山店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2058378,132.4731066],popup='ソフトバンク+ワイモバイル ゆめタウン江田島店　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2058378,132.4731066],popup='ソフトバンク+ワイモバイル ゆめタウン江田島店　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.2423221,132.5562728],popup='ソフトバンク+ワイモバイル ゆめタウン呉店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.2423221,132.5562728],popup='ソフトバンク+ワイモバイル ゆめタウン呉店　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4863700,133.3783000],popup='ソフトバンク+ワイモバイル ゆめタウン福山店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4863700,133.3783000],popup='ソフトバンク+ワイモバイル ゆめタウン福山店　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3583956,132.4565678],popup='ソフトバンク+ワイモバイル ゆめタウンみゆき店　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3583956,132.4565678],popup='ソフトバンク+ワイモバイル ゆめタウンみゆき店　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.4098933,132.4502081],popup='ソフトバンク+ワイモバイル 横川駅店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.4098933,132.4502081],popup='ソフトバンク+ワイモバイル 横川駅店　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.6589901,132.6982946],popup='ソフトバンク+ワイモバイル 吉田店　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.6589901,132.6982946],popup='ソフトバンク+ワイモバイル 吉田店　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
-folium.Marker(location=[34.3728448,132.406712],popup='ソフトバンク+ワイモバイル LECT広島T-SITE店　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="gray")).add_to(m)
+folium.Marker(location=[34.3728448,132.406712],popup='ソフトバンク+ワイモバイル LECT広島T-SITE店　　　　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="lightgray")).add_to(m)
 m
 
 folium.Marker(location=[34.6669488,132.7040672],popup='ドコモ 安芸高田店　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
